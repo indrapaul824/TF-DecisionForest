@@ -1,7 +1,7 @@
 # TF-DecisionForest 
 
 ## Overview
-This repo contains my code files for using TensorFlow Decision Forest
+This repo contains my code files I made for learning and using TensorFlow Decision Forest
 
 ## Requirement
 Package Requirement: `tensorflow_decision_forests`
